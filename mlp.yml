@@ -1,0 +1,13 @@
+name: mlp
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - requests
+  - python
+  - scipy
+  - scikit-learn
+  - tensorflow
+  - pandas
